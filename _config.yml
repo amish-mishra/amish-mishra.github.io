@@ -1,0 +1,16 @@
+title: Amish's personal website
+
+# Author Settings
+author: Amish Mishra # add your name
+author-img: amish.jpeg # add your photo
+about-author: Mathematics PhD candidate at Florida Atlantic University # researching in Topological Data Analysis and Computational Topology. # add description
+social-github: amish-mishra # add your Github handle
+social-linkedin: mishra-amish # add your Linkedin handle
+social-email: amishra2019 [at] fau [dot] edu # add your Email address
+url: "https://amish-mishra.github.io"
+
+style: kjhealy
+markdown: kramdown
+permalink: /blog/:year/:month/:day/:title
+include: [_pages]
+google_analytics: "G-5151W1N1EK"

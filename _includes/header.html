@@ -1,0 +1,26 @@
+<aside>
+	<div class="container">
+		<nav>
+			<ul>
+				{% for page in site.pages %} {% if page.title %}
+				<li><a href="{{ page.url | prepend: site.baseurl }}">{{ page.title }}</a></li>
+				{% endif %} {% endfor %}
+				<!-- <li><a href="{{ "/blog" | prepend: site.baseurl }}">Blog</a></li> -->
+			</ul>
+			</li>
+			</ul>
+		</nav>
+	</div>
+</aside>
+
+<header>
+		<!-- <h1><a href="{{ site.baseurl }}">{{ site.title }}</a></h1> -->
+		<div class="cover-author-image">
+			<a href="{{site.baseurl}}/"><img src="{{site.baseurl}}/assets/img/{% if site.author-img %}{{site.author-img}}{% endif %}" alt="{{site.author}}"></a>
+		</div>
+		<div class="outer">
+			<div class="author-name">{{site.author}}</div>
+			<div class="inner">{{site.about-author}}</div>
+		</div>
+		
+	</header>
