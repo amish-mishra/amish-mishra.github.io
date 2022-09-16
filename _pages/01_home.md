@@ -10,6 +10,9 @@ Check out this 3 minute video I made giving an overview of my research:
 
 * [Seeing Data: For Now We see Dimly, but Soon We Will See Shape to Shape](https://youtu.be/IsaGI1OBNhE)
 
+Here is the 2022 Ignite Off! National competition that I took 1st place in for my 5 minute presentation. You will find me at the 19 minute mark:
+* [Shaping Data with Quantum Computers](https://vimeo.com/743411827/819eacfe78)
+
 
 My projects are available on [Github](https://github.com/amish-mishra). They include:
 
