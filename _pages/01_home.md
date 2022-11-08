@@ -20,7 +20,7 @@ I was awarded Runner-up for this 3 minute presentation of my thesis work at FAU 
 </div>
 
 
-### Projects ([Github](https://github.com/amish-mishra))
+### Projects (on [Github](https://github.com/amish-mishra))
 
 [Machine Learning for sleep/wake stage classification](https://github.com/amish-mishra/ML_Del-Rips_sleep_wake_classification)
 >Utilized my personally written algorithm for Topological Data Analysis (TDA) for a data analysis project that involved classifying patient sleep stage based on their heart rate.
