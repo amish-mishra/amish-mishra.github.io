@@ -22,10 +22,10 @@ I was awarded Runner-up for this 3 minute presentation of my thesis work at FAU 
 
 ### Projects (on [Github](https://github.com/amish-mishra))
 
-[Machine Learning for sleep/wake stage classification](https://github.com/amish-mishra/ML_Del-Rips_sleep_wake_classification)
+[Machine Learning for sleep/wake stage classification](https://github.com/amish-mishra/ML-Del-Rips-sleep-wake-classification)
 >Utilized my personally written algorithm for Topological Data Analysis (TDA) for a data analysis project that involved classifying patient sleep stage based on their heart rate.
 [Matrix-Chain Multiplication Problem](https://github.com/amish-mishra/matrix-chain-multiplication)
 >Solved and analyzed using a Brute-force approach and a Dynamic programming approach.
-[The Delaunay-Rips Filtration](https://github.com/amish-mishra/cechmate_DR)
-> A computationally efficient filtration for TDA. Personally written algorithm that I used for a [machine learning project](https://github.com/amish-mishra/ML_Del-Rips_sleep_wake_classification) for an upcoming paper.
+[The Delaunay-Rips Filtration](https://github.com/amish-mishra/cechmate-DR)
+> A computationally efficient filtration for TDA. Personally written algorithm that I used for a [machine learning project](https://github.com/amish-mishra/ML-Del-Rips-sleep-wake-classification) for an upcoming paper.
 [Interactive plot of solution to 1-D heat equation](https://github.com/amish-mishra/1d-heat-eqn)
