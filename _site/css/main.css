@@ -1,21 +1,21 @@
 @charset "UTF-8";
 *, *::before, *::after { -webkit-box-sizing: border-box; -moz-box-sizing: border-box; box-sizing: border-box; }
 
-body { margin: 0; color: #4e3636; font-family: "Open Sans", sans-serif; font-size: 1.1em; line-height: 1.6; -webkit-font-smoothing: antialiased; }
+body { margin: 0; color: #424242; font-family: "Open Sans", sans-serif; font-size: 1.1em; line-height: 1.6; -webkit-font-smoothing: antialiased; }
 
-h1, h2, h3 { font-weight: 600; color: #425469; font-family: "Muli", sans-serif; line-height: 1.5; }
+h1, h2, h3 { font-weight: 600; color: #000000; font-family: "Muli", sans-serif; line-height: 1.5; }
 
-h1 { color: #030183; font-size: 2.5em; }
+h1 { color: #050369; font-size: 2.5em; }
 
-h1 a, h1 a:visited { text-decoration: none; color: #030183; }
+h1 a, h1 a:visited { text-decoration: none; color: #050369; }
 
 h2 { font-size: 2em; }
 
-a, a:visited { color: #425469; text-decoration: underline; font-weight: bold; }
+a, a:visited { color: #02336a; }
 
-a:hover { color: #030183; text-decoration: underline; }
+a:hover { color: #050369; }
 
-header { background-image: url("/assets/img/mathWall_3.png"); background-color: #52515a; /* Used if the image is unavailable */ height: 0px; /* You must set a specified height */ background-position: top, center; /* Center the image */ background-repeat: no-repeat; /* Do not repeat the image */ background-size: cover; /* Resize the background image to cover the entire container */ padding: 0px 15px; text-align: center; margin: 50px 0 0; height: 30vh; display: flex; justify-content: center; align-items: center; }
+header { background-image: url("/assets/img/mathWall_3.png"); background-color: #dbd8f0; /* Used if the image is unavailable */ height: 0px; /* You must set a specified height */ background-position: top, center; /* Center the image */ background-repeat: no-repeat; /* Do not repeat the image */ background-size: cover; /* Resize the background image to cover the entire container */ padding: 0px 15px; text-align: center; margin: 50px 0 0; height: 30vh; display: flex; justify-content: center; align-items: center; }
 
 main { padding: 0 15px; max-width: 800px; margin: 0 auto; }
 
@@ -66,7 +66,7 @@ aside nav ul li { float: left; position: relative; }
 
 aside nav ul li a { text-decoration: none; display: block; padding: 15px; font-family: 'Muli', sans-serif; line-height: 20px; margin-bottom: -1px; box-shadow: 0; }
 
-aside nav ul li a:hover, aside nav ul li a:active { background: #52515a; text-decoration: none; color: #030183; }
+aside nav ul li a:hover, aside nav ul li a:active { background: #dbd8f0; text-decoration: none; color: #050369; }
 
 aside nav:after { content: ''; display: table; clear: both; }
 
