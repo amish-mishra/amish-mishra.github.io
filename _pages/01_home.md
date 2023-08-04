@@ -10,15 +10,15 @@ Hello, friends. Welcome to my website! Feel free to click on the links and the o
 
 ## Competition Awards
 ### 2023 3MT Competition Runner-up and People's Choice Award
+<div class='video_imgs'>
+    <a href="https://www.youtube.com/watch?v=JT62acVG7zA"><img src="/assets/img/3mt_2023_screenshot_play.png" alt="Amish Mishra, FAU 2023 3MT® Competitor"></a>
+</div> 
 * Awarded Runner-up and the People's Choice award for 3 minute presentation of thesis work at FAU in 2023
 
 * University article: [FAU Announces Winners of 2023 'Three Minute Thesis (3MT®) Competition'](https://www.fau.edu/newsdesk/articles/fau-announces-winners-2023-three-minute-thesis)
 
 * Description of competition: *The [Three Minute Thesis](https://threeminutethesis.uq.edu.au/higher-degrees-researchstart-your-3mt-journey-here) competition celebrates the exciting research conducted by Doctor of Philosophy students. Developed by The University of Queensland, 3MT cultivates students’ academic, presentation, and research communication skills.The competition supports their capacity to effectively explain their research in three minutes, in a language appropriate to a non-specialist audience.*
 
-<div class='video_imgs'>
-    <a href="https://www.youtube.com/watch?v=JT62acVG7zA"><img src="/assets/img/3mt_2023_screenshot_play.png" alt="Amish Mishra, FAU 2023 3MT® Competitor"></a>
-</div> 
 
 ### 2022 Ignite Off! National Competition 1st Place
 
