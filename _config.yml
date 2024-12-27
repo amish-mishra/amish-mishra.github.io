@@ -2,16 +2,23 @@ title: Amish's personal website
 
 # Author Settings
 author: Amish Mishra # add your name
-author-img: amish.jpeg # add your photo
-about-author: Ph.D. candidate in Mathematics
-location: Florida Atlantic University 
+author-img: Amish_Mishra_TU_headshot_cropped.jpg # add your photo
+about-author: Assistant Professor
+department: Mathematics Department
+location: Taylor University 
 social-github: amish-mishra # add your Github handle
 social-linkedin: mishra-amish # add your Linkedin handle
-social-email: amishra2019 [at] fau [dot] edu # add your Email address
+social-email: amish_mishra [at] taylor [dot] edu # add your Email address
 url: "https://amish-mishra.github.io"
+updated_date: Dec. 26, 2024
 
 style: kjhealy
 markdown: kramdown
 permalink: /blog/:year/:month/:day/:title
 include: [_pages]
+exclude:
+- _pages/02_about.md
+- _pages/03_cv.md
+- _pages/04_contact.md
+
 google_analytics: "G-5151W1N1EK"

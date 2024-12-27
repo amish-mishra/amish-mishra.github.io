@@ -40,7 +40,7 @@ a:hover {
 
 header {
 	// background: $header;
-	background-image:url("/assets/img/mathWall_3.png");
+	background-image:url("/assets/img/aca_commencement2.jpg");
 	background-color: $header; /* Used if the image is unavailable */
 	height: 0px; /* You must set a specified height */
 	background-position: top, center; /* Center the image */
@@ -171,9 +171,9 @@ time {
 
 .author-name {
 font-family: arial;
-margin: 0 0 10px;
+margin: 0 0 0px;
 position: relative;
-padding-bottom: 15px;
+padding-bottom: 0px;
 font-size: 36px;
 // text-transform: uppercase;
 color: #ffffff;
@@ -218,7 +218,7 @@ aside {
 	background: #fff;
 	width: 100%;
 	z-index: 2;
-	border-bottom: 1px solid lighten($light, 30%);
+	// border-bottom: 1px solid adjust-color($light, $lightness: 30%);
 	box-shadow: 0px 1px 1px RGBA(4, 25, 54, .1);
 	nav {
 		float: left;
