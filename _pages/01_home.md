@@ -15,9 +15,6 @@ His CV is available upon request. Highlighted projects, publications, and presen
 - [Projects](/projects/)
 - [Presentations](/presentations/) -->
 
-Here is the homepage text in plain markdown, with **no bold** and **no em dashes**.
-
----
 
 ### Topological Data Analysis and Statistics for Modern Biological Discovery
 
