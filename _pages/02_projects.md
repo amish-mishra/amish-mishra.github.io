@@ -14,10 +14,10 @@ Below, you will find my projects and publications, showcasing my work in researc
 
 ### A Pipeline for Data-Driven Learning of Topological Features with Applications to Protein Stability Prediction
 <div class='video_imgs'>
-    <a href="https://arxiv.org/abs/2408.04847"><img src="/assets/img/cder_protein.gif" alt="protein topological features gif"></a>
+    <a href="https://rdcu.be/eQBr7"><img src="/assets/img/cder_protein.gif" alt="protein topological features gif"></a>
 </div>
 * [Supplemental code for my paper](https://github.com/amish-mishra/CDER-protein-classifier/tree/main) on using CDER (Cover-Tree Differencing for Entropy Reduction) algorithm to identify highly informative regions of persistence diagrams to distinguish stable/unstable protein designs.
-* [Preprint available](https://arxiv.org/abs/2408.04847)
+* [Published](https://rdcu.be/eQBr7)
 
 
 ### Machine Learning for sleep/wake stage classification
