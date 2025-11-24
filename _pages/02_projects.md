@@ -17,7 +17,7 @@ Below, you will find my projects and publications, showcasing my work in researc
     <a href="https://rdcu.be/eQBr7"><img src="/assets/img/cder_protein.gif" alt="protein topological features gif"></a>
 </div>
 * [Supplemental code for my paper](https://github.com/amish-mishra/CDER-protein-classifier/tree/main) on using CDER (Cover-Tree Differencing for Entropy Reduction) algorithm to identify highly informative regions of persistence diagrams to distinguish stable/unstable protein designs.
-* [Published](https://rdcu.be/eQBr7)
+* [Published in Journal of Applied and Computational Topology](https://rdcu.be/eQBr7)
 
 
 ### Machine Learning for sleep/wake stage classification
