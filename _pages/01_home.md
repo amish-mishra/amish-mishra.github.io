@@ -22,7 +22,7 @@ Amish Mishra, Ph.D., is a mathematician and data scientist specializing in topol
 
 Dr. Mishra's research sits at the intersection of abstract mathematics and real-world biological insight. His work applies TDA, machine learning, and rigorous statistical methods to high-dimensional biological datasets, including protein structure analysis, single-cell RNA sequencing, and gene interaction networks. He also performs contract bioinformatics work in industry, where he develops mathematically grounded frameworks for uncovering structure, uncertainty, and mechanistic patterns in complex multi-omics data.
 
-As an educator, Dr. Mishra is committed to training the next generation of data-savvy scientists. He teaches courses in data science, statistics, and discrete mathematics with an emphasis on inclusive pedagogy, real datasets, and mathematically principled modeling. He mentors undergraduate research teams working on computational biology, atmospheric science, and applied machine learning.
+As an educator, Dr. Mishra is committed to training the next generation of data-savvy scientists. He teaches courses in data science, statistics, and discrete mathematics with an emphasis on inclusive pedagogy, real datasets, and mathematically principled modeling. He also mentors undergraduate research teams working on data analysis for industry partners.
 
 His work reflects a belief that mathematics and data, practiced with clarity, rigor, and integrity, can advance both scientific discovery and human understanding.
 
